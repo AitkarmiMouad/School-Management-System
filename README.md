@@ -11,19 +11,19 @@ Note :
 
 Directeur pedaghogique :
 
-login:mouadaitkarmi.dp@gmail.com
+login:    mouadaitkarmi.dp@gmail.com
 
-password:mouadmouad
+password: mouadmouad
 
 teacher :
 
-login:ahmedahmed.prof@gmail.com
+login:    ahmedahmed.prof@gmail.com
 
-password:ahmedahmed
+password: ahmedahmed
 
 
 student :
 
-login:mouadmouad.etu@gmail.com
+login:    mouadmouad.etu@gmail.com
 
-password:mouadmouad
+password: mouadmouad
