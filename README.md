@@ -10,14 +10,14 @@ Note :
 --- USERS -------------------------------------------------------------------------------------------------------------
 
 Directeur pedaghogique :
-mouadaitkarmi.dp@gmail.com
-mouadmouad
+login:mouadaitkarmi.dp@gmail.com
+password:mouadmouad
 
 teacher :
-ahmedahmed.prof@gmail.com
-ahmedahmed
+login:ahmedahmed.prof@gmail.com
+password:ahmedahmed
 
 
 student :
-mouadmouad.etu@gmail.com
-mouadmouad
+login:mouadmouad.etu@gmail.com
+password:mouadmouad
